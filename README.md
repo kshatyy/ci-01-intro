@@ -25,7 +25,7 @@
 
 <img src="img/1.png">
 
-[Bug](https://github.com/kshatyy/ci-01-intro/blob/main/dz/Bug.xml)
+[Bug](https://github.com/kshatyy/ci-01-intro/dz/Bug.xml)
 
 ----------------------------------------------------------------
 
