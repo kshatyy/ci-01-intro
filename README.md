@@ -21,14 +21,13 @@
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
 ---
-### Задание 1
+### Задание
 
 <img src="img/1.png">
 
 [Bug](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
-
-### Задание 2
+----------------------------------------------------------------
 
 <img src="img/2.png">
 
